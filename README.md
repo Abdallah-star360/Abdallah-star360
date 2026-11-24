@@ -1,110 +1,72 @@
+[Abdallah-star360-README.md](https://github.com/user-attachments/files/35358025/Abdallah-star360-README.md)
 <div align="center">
 
-Hey, I'm Abdallah Soudy 👋
+# Hey, I'm Abdallah Soudy 👋
 
-Computer Science Student · Cybersecurity Enthusiast · Linux Tinkerer
+### Computer Science Student · Cybersecurity Enthusiast · Linux Tinkerer
 
-Building my foundation in networking and security—one lab, project, and write-up at a time.
+**Building my foundation in networking and security—one lab, project, and write-up at a time.**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-Abdallah--star360-181717?style=flat&logo=github)](https://github.com/Abdallah-star360)
+[![Location](https://img.shields.io/badge/Beni%20Suef-Egypt-CE1126?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
+---
 
+## About me
 
-
-About me
-
-I’m a third-year Computer Science student at Nahda University (NUB) in Beni Suef, Egypt. I’m focused on IT and cybersecurity, with a growing interest in SOC operations, penetration testing, and practical security research.
+I’m a third-year Computer Science student at **Nahda University (NUB)** in Beni Suef, Egypt. I’m focused on **IT and cybersecurity**, with a growing interest in SOC operations, penetration testing, and practical security research.
 
 I enjoy learning by doing: setting up Linux environments, exploring networking, solving programming problems, and documenting what I learn along the way.
 
-•
-Currently studying CCNA and CompTIA Network+
+- Currently studying **CCNA** and **CompTIA Network+**
 
-•
-Practicing web security with PortSwigger Web Security Academy
+- Practicing web security with **PortSwigger Web Security Academy**
 
-•
-Exploring bug bounty methodology, reconnaissance, and security tools
+- Exploring bug bounty methodology, reconnaissance, and security tools
 
-•
-Interested in SOC Analyst and Penetration Tester career paths
+- Interested in **SOC Analyst** and **Penetration Tester** career paths
 
-Highlights
+## Highlights
 
-•
-Placed 96th in the ICPC ECPC 2025 Qualifications, competing with my university team among 201 teams from 25 universities.
+- Placed **96th** in the **ICPC ECPC 2025 Qualifications**, competing with my university team among 201 teams from 25 universities.
 
-•
-Registered for the Huawei ICT Competition 2026–2027, Northern Africa — Network Track.
+- Registered for the **Huawei ICT Competition 2026–2027**, Northern Africa — Network Track.
 
-•
-Built a personal Arch Linux / Hyprland setup with a custom prayer-times widget for Beni Suef.
+- Built a personal Arch Linux / Hyprland setup with a custom prayer-times widget for Beni Suef.
 
-Featured project
+## Featured project
 
+### [stars-dots-hypland](https://github.com/Abdallah-star360/stars-dots-hypland)
 
+My customized **Arch Linux + Hyprland** desktop configuration, based on [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland). It includes Quickshell widgets, Material You-inspired theming, Arabic/English keyboard switching, and a custom prayer-times widget with notifications.
 
-stars-dots-hypland
+**Built with:** QML · Python · Hyprland · Quickshell · Linux
 
-My customized Arch Linux + Hyprland desktop configuration, based on 
+## Tech I work with
 
-end-4/dots-hyprland. It includes Quickshell widgets, Material You-inspired theming, Arabic/English keyboard switching, and a custom prayer-times widget with notifications.
+**Programming:** Python · PHP · JavaScript · HTML · CSS · SQL / MySQL
+**Security & networking:** Nmap · Burp Suite · sqlmap · ffuf · nuclei · subfinder · httpx
+**Systems:** Linux (Arch) · Hyprland · VirtualBox
+**Currently learning:** CCNA networking · Network+ · Web application security
 
-Built with: QML · Python · Hyprland · Quickshell · Linux
-
-Tech I work with
-
-Programming: Python · PHP · JavaScript · HTML · CSS · SQL / MySQL
-Security & networking: Nmap · Burp Suite · sqlmap · ffuf · nuclei · subfinder · httpx
-Systems: Linux (Arch) · Hyprland · VirtualBox
-Currently learning: CCNA networking · Network+ · Web application security
-
-Current focus
+## Current focus
 
 I’m strengthening my networking and security fundamentals through hands-on labs and structured study. I’m also working toward sharing useful write-ups and documenting future home-lab projects here.
 
-Find me
+## Find me
 
-•
-GitHub: 
+- GitHub: [@Abdallah-star360](https://github.com/Abdallah-star360)
 
-@Abdallah-star360
+- LinkedIn: [abdallah-soudy](https://www.linkedin.com/in/abdallah-soudy-b657492b8/)
 
-•
-LinkedIn: 
+- Email: [mohemdswdy3@gmail.com](mailto:mohemdswdy3@gmail.com)
 
-abdallah-soudy
-
-•
-Email: mohemdswdy3@gmail.com
-
-
-
+---
 
 <div align="center">
 
-Learning consistently. Building responsibly. Sharing what I discover.
+*Learning consistently. Building responsibly. Sharing what I discover.*
 
 </div>
-
